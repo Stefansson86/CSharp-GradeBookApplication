@@ -9,7 +9,7 @@ namespace GradeBook.Enums
         Standard,
         Ranked,
         ESNU,
-        OneToTFour,
+        OneToFour,
         SixPoint
     }
 }
